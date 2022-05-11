@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FBg6TgYvDFztd6tTj6XjRC1GOzIr4SgVFUSYi0Jluz+iEmM/VtE3FXC5S8SjT+nPcSjqVphwqcrMN3Bru/ICg==",
+  "success": true,
+  "projectFilePath": "E:\\namlp\\MyCode\\blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namlp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
